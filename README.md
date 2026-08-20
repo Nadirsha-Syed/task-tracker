@@ -6,7 +6,7 @@ A production-ready full-stack Task Management application built with **React (Vi
 
 ##  Live Demo & Repository
 - **Live Deployment:**  [https://task-tracker-one-murex-32.vercel.app/]
-- **GitHub Repository:** [https://github.com/YOUR_USERNAME/task-tracker](https://github.com/Nadirsha-Syed/task-tracker)
+- **GitHub Repository:** [https://github.com/Nadirsha-Syed/task-tracker]
 
 ---
 
